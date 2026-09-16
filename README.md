@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: allie_mck07@hotmail.com, pattieenmark@yahoo.com
-At: 2026-09-16 13:55:42
-Id: Kf3VGUJI
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: jacquelinecole9@aol.com, dreadams87@gmail.com
+At: 2026-09-16 13:56:20
+Id: czIeFb99
